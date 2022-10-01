@@ -1,0 +1,7 @@
+data_set,infos
+Clima-Curitiba,Este conjunto de dados conta com 7 observações da temperatura ambiente da cidade de Curitiba-PR.
+Comprimento sépalas - setosa,Conjunto de dados formado pelas 9 primeiras observações das sépalas da flor de Iris setosa.
+Comprimento sépalas - virginica,Conjunto de dados formado pelas 10 primeiras observações das sépalas da flor de Iris virgínica.
+Números ordenados,Este conjunto de dados é formado por números inteiros ordenados entre 1 e 8 (tamanho par).
+wikipedia-1,"Exemplo 1 da página da WikiPedia sobre o cálculo de quartis em inglês, conta com tamanho amostral ímpar. Fonte: https://en.wikipedia.org/wiki/Quartile#Example_1"
+wikipedia-2,"Exemplo 2 da página da WikiPedia sobre o cálculo de quartis em inglês, conta com tamanho amostral par. Fonte: https://en.wikipedia.org/wiki/Quartile#Example_2"
